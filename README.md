@@ -1,3 +1,3 @@
 # hg6529998-demo
-this is my first git repositry 
+this is my first git repositry.
 author - himanshu gupta 
